@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>MyProduct</id>
+    <version>1.0.0</version>
+    <authors>MyCompany</authors>
+    <description>Provides my product.</description>
+    <dependencies>
+      <dependency id="MyOtherProduct" />
+    </dependencies>
+  </metadata>
+</package>
