@@ -1,0 +1,3 @@
+NUGET
+  remote: http://mypackageserver.com/packages/nuget
+    MyOtherProduct (1.0.1)

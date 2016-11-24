@@ -1,0 +1,3 @@
+paket.exe pack templatefile paket.template output . version 1.0.0 minimum-from-lock-file
+
+--> resulting nuspec file does not contain a dependency to MyOtherProduct with a minium version

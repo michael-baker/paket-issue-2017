@@ -1,0 +1,9 @@
+type file
+id MyProduct
+authors MyCompany
+description
+    Provides my product.
+files
+    * ==> lib
+dependencies
+    MyOtherProduct
